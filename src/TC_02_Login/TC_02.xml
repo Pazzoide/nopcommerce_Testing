@@ -1,0 +1,19 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="mySuit">
+
+    <parameter name="BrowserType" value=""> </parameter>
+
+    <test name="TC_02">
+        <classes>
+            <class name="TC_02_Login.UserLogin"> </class>
+        </classes>
+    </test>
+
+    <test name="TC_03">
+        <classes>
+            <class name="TC_03_NegativeAndPositiveLogin.NegativeAndPozitiveUserLogin"> </class>
+        </classes>
+    </test>
+
+</suite>
