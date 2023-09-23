@@ -47,6 +47,7 @@ Gereksinimler:
 - org.seleniumhq.selenium:selenium-java:4.11.0
 - org.slf4j:slf4j-nop:1.7.30
 - commons-io:commons-io:2.11.0
+- org.testng:testng:6.14.3
 
 Sürüm:
 1.0.0
@@ -59,5 +60,3 @@ Fatihhan Karahanlı : fatihhan.karahanli@gmail.com
 Ramazan İnce : inceliramazan80@gmail.com
 Zafer Cansız : zfrcnsz1@gmail.com
 Şeyma Askerzade : 4seyma@gmail.com
-Burcu Elaldı: burcuert.el@gmail.com
-Engin Elaldı : engin.elaldi054@gmail.com
