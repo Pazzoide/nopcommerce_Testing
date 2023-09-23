@@ -58,3 +58,7 @@ public class BaseDriver {
         Function.Wait(2);
     }
 }
+//Test için kullanılacak tarayıcı (Chrome, Safari veya Firefox) yüklü ve başlatılmış durumda olmalıdır.
+//        - Test ortamında internet erişimi sağlanmalıdır.
+//        - Test environment : https://demo.nopcommerce.com/ adresidir
+//        - Geçerli şifre en az 6 karakterli olmalıdır.
